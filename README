@@ -1,0 +1,17 @@
+./check_nfs_client 
+OK: nfsstat output successfully parsed|total=1721581c getattr=165048c setattr=4202c lookup=39c access=123280c read=1105830c write=61365c create=14c mkdir=6c rename=4c readdirplus=14c fsstat=261764c fsinfo=10c pathconf=5c 
+        total:  1721581
+      getattr:   165048
+      setattr:     4202
+       lookup:       39
+       access:   123280
+         read:  1105830
+        write:    61365
+       create:       14
+        mkdir:        6
+       rename:        4
+  readdirplus:       14
+       fsstat:   261764
+       fsinfo:       10
+     pathconf:        5
+
